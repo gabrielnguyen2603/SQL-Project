@@ -20,8 +20,8 @@ Table preview of this dataset
 
 - What is the trend in outstanding debt or obligations to the IDA by country or region?
 
-Are there countries that have shifted from primarily receiving grants to credits or vice versa, and what might explain these transitions?
+- Are there countries that have shifted from primarily receiving grants to credits or vice versa, and what might explain these transitions?
 
-How many new projects are approved each year, and what is the average size of these commitments?
+- How many new projects are approved each year, and what is the average size of these commitments?
 
-What are the top-performing or most impactful projects, and what lessons can be drawn from their outcomes?
+- What are the top-performing or most impactful projects, and what lessons can be drawn from their outcomes?
