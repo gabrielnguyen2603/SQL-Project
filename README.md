@@ -25,3 +25,26 @@ Table preview of this dataset
 - How many new projects are approved each year, and what is the average size of these commitments?
 
 - What are the top-performing or most impactful projects, and what lessons can be drawn from their outcomes?
+
+# Analysis 
+
+At first, i start to find out which nations or areas have benefited the most from IDA money over time, and how has this altered since 2011. I determined the top IDA funding recipient for each year since 2011 by writing a query that first aggregates the total original funding amount for each country-year. Then, I ranked the countries within each year by their funding amounts using a descending row number. By selecting only the rows where the rank equals one, I isolated the highest-funded recipient for each year. Finally, I arranged the results chronologically to provide a clear, year-by-year leaderboard of funding recipients.
+
+![image](https://github.com/user-attachments/assets/7ed433fc-88a5-4808-981a-79b5aaefa8d2)
+
+
+(SQL Query)
+
+
+![image](https://github.com/user-attachments/assets/a8e67874-71f7-4c95-94ab-9aaf6d45c1b6)
+
+(Query Result)
+
+
+
+
+
+
+
+      
+
