@@ -12,8 +12,6 @@ Table preview of this dataset
 # Business Question: 
 - Which countries or regions have received the most IDA funding over time, and how has this changed since 2011?
 
-- What is the distribution of funding types (credits, grants, guarantees) across different countries, and what patterns emerge?
-
 - How have funding volumes responded to major global events, such as the COVID-19 pandemic or natural disasters?
 
 - Which sectors or project types have attracted the largest share of IDA resources, and how has this evolved?
