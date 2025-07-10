@@ -38,6 +38,21 @@ At first, i start to find out which nations or areas have benefited the most fro
 
 (Query Result)
 
+Secondly, 
+
+![image](https://github.com/user-attachments/assets/f1f9b4ed-e682-439a-8191-e40381db8f0b)
+
+
+(SQL Query)
+
+
+![Screenshot 2025-07-10 184432](https://github.com/user-attachments/assets/7b567a1d-9087-4781-8d95-331aa3b4fc4d)
+
+
+(Query Result)
+
+
+
 
 
 
