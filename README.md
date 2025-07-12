@@ -14,7 +14,15 @@ Table preview of this dataset
 
 - How have funding volumes responded to major global events, such as the COVID-19 pandemic or natural disasters?
 
-- "How has the funding composition changed across IDA18 ($75B), IDA19 ($82B), and IDA20 ($93B) replenishments in terms of donor contributions vs. market borrowing vs. internal reflows, and which donor countries show the most volatile contribution patterns?"
+- Which regions and countries show the highest credit cancellation rates, and how do cancellation patterns correlate with project approval-to-effectiveness timelines across different replenishment cycles?
+
+- "What is the average time from credit effectiveness to first disbursement by sector and region, and which factors (credit size, borrower type, currency) most significantly impact disbursement speed?"
+
+- "What percentage of IDA credits have been sold to third parties by region, and how do third-party repayment patterns compare to direct IDA repayments in terms of recovery rates and timeline efficiency?"
+
+- "Which borrowers (government entities, agencies, or institutions) demonstrate the strongest repayment performance across multiple credits, and how does borrower diversification within countries correlate with overall portfolio risk?"
+
+
 
 # Analysis 
 
@@ -42,6 +50,7 @@ Move on to question 2, I look at each project and check when it was approved. If
 
 
 (Query Result)
+
 
 
 
