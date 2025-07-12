@@ -38,7 +38,7 @@ At first, i start to find out which nations or areas have benefited the most fro
 
 (Query Result)
 
-Secondly, I look at each project and check when it was approved. If it was approved in 2020, we call it a “COVID-19 Pandemic” project. If the project’s name has the word “disaster” or “emergency,” we call it a “Natural Disaster” project. If it’s neither of those, we just call it a “Regular” project. Then, i count and add up all the projects for each group.
+Move on to question 2, I look at each project and check when it was approved. If it was approved in 2020, we call it a “COVID-19 Pandemic” project. If the project’s name has the word “disaster” or “emergency,” we call it a “Natural Disaster” project. If it’s neither of those, we just call it a “Regular” project. Then, i count and add up all the projects for each group.
 
 ![image](https://github.com/user-attachments/assets/f1f9b4ed-e682-439a-8191-e40381db8f0b)
 
