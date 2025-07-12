@@ -14,15 +14,7 @@ Table preview of this dataset
 
 - How have funding volumes responded to major global events, such as the COVID-19 pandemic or natural disasters?
 
-- Which sectors or project types have attracted the largest share of IDA resources, and how has this evolved?
-
-- What is the trend in outstanding debt or obligations to the IDA by country or region?
-
-- Are there countries that have shifted from primarily receiving grants to credits or vice versa, and what might explain these transitions?
-
-- How many new projects are approved each year, and what is the average size of these commitments?
-
-- What are the top-performing or most impactful projects, and what lessons can be drawn from their outcomes?
+- "How has the funding composition changed across IDA18 ($75B), IDA19 ($82B), and IDA20 ($93B) replenishments in terms of donor contributions vs. market borrowing vs. internal reflows, and which donor countries show the most volatile contribution patterns?"
 
 # Analysis 
 
