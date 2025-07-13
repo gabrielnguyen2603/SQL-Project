@@ -16,11 +16,11 @@ Table preview of this dataset
 
 - Which regions and countries show the highest credit cancellation rates, and how do cancellation patterns correlate with project approval-to-effectiveness timelines across different replenishment cycles?
 
-- "What is the average time from credit effectiveness to first disbursement by sector and region, and which factors (credit size, borrower type, currency) most significantly impact disbursement speed?"
+- What is the average time from credit effectiveness to first disbursement by sector and region, and which factors (credit size, borrower type, currency) most significantly impact disbursement speed?
 
-- "What percentage of IDA credits have been sold to third parties by region, and how do third-party repayment patterns compare to direct IDA repayments in terms of recovery rates and timeline efficiency?"
+- What percentage of IDA credits have been sold to third parties by region, and how do third-party repayment patterns compare to direct IDA repayments in terms of recovery rates and timeline efficiency?
 
-- "Which borrowers (government entities, agencies, or institutions) demonstrate the strongest repayment performance across multiple credits, and how does borrower diversification within countries correlate with overall portfolio risk?"
+- Which borrowers (government entities, agencies, or institutions) demonstrate the strongest repayment performance across multiple credits, and how does borrower diversification within countries correlate with overall portfolio risk?
 
 
 
