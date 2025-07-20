@@ -49,7 +49,8 @@ Move on to question 2, I look at each project and check when it was approved. If
 
 Let's move to next question, at first i analysed credit data, grouping by region and coutry. For each area, i counted unique credits, summed cancelled amounts, and total original amounts. Furthermore, calculated cancellation rate percent, safely handling zero data, and show the top 10 areas by cancellation rate, highlighting where to prioritize attention . 
 
-<img width="953" height="443" alt="image" src="https://github.com/user-attachments/assets/59341eff-d24e-4de9-98f7-f761300d7f48" />
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/482d76e3-1aeb-49c2-9015-1c638b1b2faa" />
+
 
 (SQL Query)
 
