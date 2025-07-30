@@ -16,6 +16,7 @@ Table preview of this dataset
 
 - Which regions and countries show the highest credit cancellation rates? 
 
+- What proportion of projects have disbursed funds after their closed date, and what does this indicate about project management or reporting lags?
 
 
 
