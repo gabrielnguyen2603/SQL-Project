@@ -9,7 +9,7 @@ For this project, I first use Python to preprocess the dataset, converting data 
 Table preview of this dataset
 ![image](https://github.com/user-attachments/assets/ff55cc0e-f7d9-4140-9c4f-a579f5cd56a0)
 
-# Business Question: 
+# Business Question 
 - Which countries or regions have received the most IDA funding over time, and how has this changed since 2011?
 
 - How have funding volumes responded to major global events, such as the COVID-19 pandemic or natural disasters?
