@@ -64,5 +64,11 @@ Let's move to next question, at first i analysed credit data, grouping by region
 
 
 
+<img width="888" height="602" alt="image" src="https://github.com/user-attachments/assets/93205819-6915-45b7-8f33-98331ab25793" />
+
+
+
+
+
       
 
