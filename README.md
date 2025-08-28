@@ -67,8 +67,15 @@ Let's move to next question, at first i analysed credit data, grouping by region
 <img width="888" height="602" alt="image" src="https://github.com/user-attachments/assets/93205819-6915-45b7-8f33-98331ab25793" />
 
 
+(SQL Query)
 
 
+
+<img width="510" height="41" alt="image" src="https://github.com/user-attachments/assets/7f9e296c-d3aa-4dc7-ab1f-50c121c5c135" />
+
+
+
+(Query Result)
 
       
 
