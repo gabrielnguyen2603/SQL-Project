@@ -65,6 +65,7 @@ Let's move to next question, at first i analysed credit data, grouping by region
 (Query Result)
 
 
+In the below query, a significant 51.38% of projects have disbursed funds after their official closing date. This suggests a potential disconnect between the formal project closure and the final financial settlement.
 
 
 <img width="888" height="602" alt="image" src="https://github.com/user-attachments/assets/93205819-6915-45b7-8f33-98331ab25793" />
@@ -72,8 +73,6 @@ Let's move to next question, at first i analysed credit data, grouping by region
 
 (SQL Query)
 
-
-In the below query, a significant 51.38% of projects have disbursed funds after their official closing date. This suggests a potential disconnect between the formal project closure and the final financial settlement.
 
 <img width="559" height="51" alt="image" src="https://github.com/user-attachments/assets/f0bd70d7-03a7-48ce-ac3b-e4bcefc3c5cd" />
 
