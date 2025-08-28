@@ -9,6 +9,9 @@ For this project, I first use Python to preprocess the dataset, converting data 
 Table preview of this dataset
 ![image](https://github.com/user-attachments/assets/ff55cc0e-f7d9-4140-9c4f-a579f5cd56a0)
 
+# Key findings
+- The finding that 51.38% (859 out of 1672) of projects have post-closure disbursements is a major red flag that points to systemic issues. This isn't a rare exception; it's happening in more than half of the portfolio.
+
 # Business Question 
 - Which countries or regions have received the most IDA funding over time, and how has this changed since 2011?
 
@@ -70,6 +73,7 @@ Let's move to next question, at first i analysed credit data, grouping by region
 (SQL Query)
 
 
+In the below query, a significant 51.38% of projects have disbursed funds after their official closing date. This suggests a potential disconnect between the formal project closure and the final financial settlement.
 
 <img width="559" height="51" alt="image" src="https://github.com/user-attachments/assets/f0bd70d7-03a7-48ce-ac3b-e4bcefc3c5cd" />
 
