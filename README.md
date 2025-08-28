@@ -71,11 +71,11 @@ Let's move to next question, at first i analysed credit data, grouping by region
 
 
 
-<img width="510" height="41" alt="image" src="https://github.com/user-attachments/assets/7f9e296c-d3aa-4dc7-ab1f-50c121c5c135" />
-
+<img width="559" height="51" alt="image" src="https://github.com/user-attachments/assets/f0bd70d7-03a7-48ce-ac3b-e4bcefc3c5cd" />
 
 
 (Query Result)
+
 
       
 
