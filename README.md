@@ -12,7 +12,7 @@ Table preview of this dataset
 # Key findings
 - The finding that 51.38% (859 out of 1672) of projects have post-closure disbursements is a major red flag that points to systemic issues. This isn't a rare exception; it's happening in more than half of the portfolio.
   
-- However, 2020 saw a massive spike in both commitments and the number of projects (58) due to the COVID-19 Pandemic, with total commitments reaching over $269 billion. In 2022, lending for natural disasters remained high, with commitments of nearly $170 billion for just 4 projects, indicating a focus on larger-scale disaster response initiatives.
+- 2020 saw a massive spike in both commitments and the number of projects (58) due to the COVID-19 Pandemic, with total commitments reaching over $269 billion. In 2022, lending for natural disasters remained high, with commitments of nearly $170 billion for just 4 projects, indicating a focus on larger-scale disaster response initiatives.
   
 - Sudan, across three different regional classifications (AFRICA EAST, AFRICA, and EASTERN AND SOUTHERN AFRICA), consistently shows a cancellation rate of 44.16%. This suggests significant challenges in project implementation or stability in that area. Other countries with notably high cancellation rates include Afghanistan (26.39%), Myanmar (19.02%), and Chad (appearing with both 18.06% and 15.34% rates). These high rates could point to political instability, administrative hurdles, or a re-evaluation of project viability.
   
@@ -84,6 +84,11 @@ In the below query, a significant 51.38% of projects have disbursed funds after 
 
 
 (Query Result)
+
+
+# Recommendation
+
+
 
 
       
